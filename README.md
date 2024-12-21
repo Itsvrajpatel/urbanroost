@@ -6,6 +6,21 @@
 
 ![image alt](https://github.com/Itsvrajpatel/urbanroost/blob/main/screenshots/home_UR.jpg)
 
+![image alt](https://github.com/Itsvrajpatel/urbanroost/blob/main/screenshots/sign%20up.jpg)
+
+![image alt](https://github.com/Itsvrajpatel/urbanroost/blob/main/screenshots/allie_login.jpg)
+
+![image alt](https://github.com/Itsvrajpatel/urbanroost/blob/main/screenshots/properties.jpg)
+
+![image alt](https://github.com/Itsvrajpatel/urbanroost/blob/main/screenshots/Property%20QR.jpg)
+
+![image alt](https://github.com/Itsvrajpatel/urbanroost/blob/main/screenshots/services.jpg)
+
+![image alt](https://github.com/Itsvrajpatel/urbanroost/blob/main/screenshots/database.jpg)
+
+![image alt](https://github.com/Itsvrajpatel/urbanroost/blob/main/screenshots/about%20us.jpg)
+
+![image alt](https://github.com/Itsvrajpatel/urbanroost/blob/main/screenshots/logout.jpg)
   
 <h2>🧐 Features</h2>
 
